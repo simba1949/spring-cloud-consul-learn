@@ -1,0 +1,12 @@
+vip:
+  openpark:
+    name: default
+    version: 1
+    gmt-create: '2024-09-26 12:00:00'
+    tags:
+      - 1
+      - 2
+    properties:
+      a: a1
+      b: b1
+      c: c1
